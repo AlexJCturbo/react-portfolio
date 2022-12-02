@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'
+// import video from './assets/videos/background_video/futuristic_plexus1.mp4'
+
+// import Background from './components/Background/Background';
+import About from './components/About/About';
+import NavBar from './components/NavBar/NavBar'
+import RoomCards from './components/RoomCards/RoomCards';
+
+const coverImage = new URL('./assets/images/cover.jpg', import.meta.url);
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="main">
+      <div className="cover">
+
+        <main>
+          <NavBar></NavBar>
+          <About></About>
+          {/* <RoomCards></RoomCards> */}
+        </main>
+
+      </div>
     </div>
   );
 }
