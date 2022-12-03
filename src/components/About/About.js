@@ -1,32 +1,32 @@
 import React from "react";
 import './About.css'
-import cover from '../../assets/images/cover.jpg'
-import video from '../../assets/videos/background_video/futuristic_plexus1.mp4'
+import profilePicture from '../../assets/images/profile_picture.jpg'
+// import video from '../../assets/videos/background_video/futuristic_plexus1.mp4'
 
 //Stock footage provided by A Luna Blue, downloaded from videvo.net
 function About() {
   return (
     <div>
-      <main>
-        <div className="main-section">
-          {/* <div className="background-screen"></div>
-          <div className="background" style={{
-            backgroundImage: `url(${cover})`,
-            backgroundRepeat: 'no-repeat'
-          }}> */}
-          <h1 id="header-about">About Section</h1>
-          <div className="content">
-            <h4>Test</h4>
-            <p>Text test</p>
-          </div>
-        </div>
+      <main className="container">
 
-        {/* cover image */}
-        {/* <img src={cover} className="cover" style={{ width: "100%", height: "100%" }} alt="piece of code that fades from the center to the edges"></img> */}
-        {/* </div> */}
+        <div className="main-section row ms-4 mt-4">
+          <div className="col-md-6">
+            <h2 id="header-about">Hi, I'm Alex Jaimes.</h2>
+            <div className="content mt-4">
+              <h1 id="full-stack-header">Full Stack <br></br>Web Developer.</h1>
+              <p className="mt-5">Based in Toronto, currently in the UofT bootcamp.</p>
+            </div>
+          </div>
+
+          <div id="photo-container" className="col-md-6">
+            <div id="photo-div" className="row">
+              <img id="photo" src={profilePicture} className="img-responsive " alt="cover" />
+            </div>
+          </div>
+
+        </div>
       </main>
     </div>
-
   )
 }
 

@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css'
 // import video from './assets/videos/background_video/futuristic_plexus1.mp4'
 
-// import Background from './components/Background/Background';
 import About from './components/About/About';
 import NavBar from './components/NavBar/NavBar'
 import RoomCards from './components/RoomCards/RoomCards';
@@ -13,9 +12,8 @@ function App() {
   return (
     <div className="main">
       <div className="cover">
-
+        <NavBar></NavBar>
         <main>
-          <NavBar></NavBar>
           <About></About>
           {/* <RoomCards></RoomCards> */}
         </main>
