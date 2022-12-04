@@ -20,7 +20,7 @@ function About() {
 
           <div id="photo-container" className="col-md-6">
             <div id="photo-div" className="row">
-              <img id="photo" src={profilePicture} className="img-responsive " alt="cover" />
+              <img id="photo" src={profilePicture} className="img-responsive " alt="web developer's profile photo" />
             </div>
           </div>
 

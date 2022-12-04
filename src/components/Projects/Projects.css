@@ -1,4 +1,4 @@
 .margin-horizontal {
-  margin-right: var(--spacing-one);
-  margin-left: var(--spacing-one);
+  top: 0;
+  left: 0;
 }

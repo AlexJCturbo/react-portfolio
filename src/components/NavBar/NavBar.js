@@ -16,7 +16,7 @@ import './NavBar.css'
 function NavBar() {
   return (
     <header className="nav-main flex-row p-2 mt-4 mb-4">
-      <div className="nav-menu row justify-content md-center me-1 mt-1 mb-1">
+      <div className="nav-menu row justify-content me-1 mt-1 mb-1">
 
         <a id="home-area" className="text-start col-6 align-self-center" href="/">
           <span className="nav-home ms-4 mt-4">Home</span>
