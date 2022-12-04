@@ -7,7 +7,7 @@ function Projects() {
   const projects = [
     { name: "employee_tracker", description: "" },
     { name: "join_us", description: "" },
-    { name: "pwa_text_editor", description: "" },
+    { name: "text_editor", description: "" },
     { name: "weather_forecast", description: "", },
     { name: "team_profile", description: "" },
   ];

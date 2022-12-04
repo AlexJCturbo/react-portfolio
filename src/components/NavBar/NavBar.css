@@ -46,8 +46,10 @@ span:hover {
   font-size: x-large;
 }
 
-span:active {
-  color: rgb(75, 75, 89);
+.navActive {
+  color: rgb(45, 184, 136);
+  font-size: x-large;
+  font-weight: bolder;
 }
 
 @media only screen and (max-width: 768px) {
