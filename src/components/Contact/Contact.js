@@ -34,10 +34,10 @@ function ContactForm() {
   }
 
   return (
-    <div className="ms-5 me-5">
-      <h2>Contact me</h2>
+    <div className="ms-5 me-5 mt-5">
+      <h2 id="contact-header" className="ms-4">Contact me</h2>
 
-      <form id="contact-form" onSubmit={handleSubmit} className="pe-2">
+      <form id="contact-form" onSubmit={handleSubmit} className="ms-4 pe-2">
         <div class="mb-3 pb-2">
           <label for="name" htmlFor="name" class="form-label">Name</label>
           <br></br>
@@ -65,9 +65,7 @@ function ContactForm() {
 
         <button type="submit" class="button btn-lg mt-3 mb-5">Submit</button>
         {/* <button type="submit" class="btn btn-outline-info mt-3 mb-5">Submit</button>
-        <button type="submit" class="btn btn-outline-light mt-3 mb-5">Submit</button>
-        <button type="submit" class="btn btn-outline-secondary mt-3 mb-5">Submit</button>
-        <button type="submit" class="btn btn-outline-success mt-3 mb-5">Submit</button> */}
+        <button type="submit" class="btn btn-outline-light mt-3 mb-5">Submit</button> */}
       </form>
 
     </div>

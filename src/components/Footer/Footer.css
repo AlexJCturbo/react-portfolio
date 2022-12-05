@@ -2,6 +2,7 @@ footer {
   height: 140px;
   border-top-width: 4px;
   border-top-style: solid;
+  color: rgb(167, 167, 194);
   border-top-color: rgb(45, 184, 136);
   text-decoration: none;
   font-size: larger;
@@ -11,6 +12,10 @@ footer {
   border-top-right-radius: 50px 15px; */
 }
 
-.icons {
+.footer-div {
   font-size: x-large;
+}
+
+span {
+  color: rgb(167, 167, 194);
 }

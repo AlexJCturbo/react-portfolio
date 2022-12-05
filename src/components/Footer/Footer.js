@@ -14,7 +14,7 @@ function Footer() {
       <footer className="flex-row my-auto">
         <div className="row h-100 me-0">
           <div className="my-auto">
-            <div className="icons m-1">
+            <div className="footer-div m-1">
               <a href="https://github.com/AlexJCturbo" target="_blank" rel="noreferrer"><span className="github p-2"><FontAwesomeIcon icon={faGithub} /> </span> </a>
 
               <a href="https://www.linkedin.com/in/alejandro-jc/" target="_blank" rel="noreferrer"><span className="linkedIn p-2"><FontAwesomeIcon icon={faLinkedin} /> </span> </a>

@@ -1,11 +1,20 @@
+header {
+  color: rgb(167, 167, 194);
+}
+
 .nav-main {
   height: 85px;
   border-bottom-width: 4px;
   border-bottom-style: solid;
   border-bottom-color: rgb(45, 184, 136);
   text-decoration: none;
+  color: rgb(167, 167, 194);
   /* border-bottom-left-radius: 50px 5px; */
   /* border-bottom-right-radius: 50px 15px; */
+}
+
+#home-area {
+  color: rgb(167, 167, 194);
 }
 
 #home-area {
@@ -14,6 +23,7 @@
 
 #nav-elements {
   height: 15px;
+  color: rgb(167, 167, 194);
 }
 
 ul,
@@ -43,7 +53,10 @@ font-family: 'Rubik Mono One', sans-serif;
 
 span:hover {
   color: rgb(255, 255, 255);
-  font-size: x-large;
+}
+
+.nav-links {
+  color: rgb(167, 167, 194);
 }
 
 .navActive {
