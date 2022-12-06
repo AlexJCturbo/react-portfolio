@@ -15,6 +15,12 @@ textarea {
   color: rgb(167, 167, 194);
 }
 
+#contact-form {
+  color: rgb(167, 167, 194);
+  font-size: large;
+  font-weight: bold;
+}
+
 #contact-name,
 #contact-email {
   border: 0;

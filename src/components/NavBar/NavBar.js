@@ -17,11 +17,11 @@ function NavBar(props) {
     <header className="nav-main flex-row p-2 mt-4 mb-4">
       <div className="nav-menu row justify-content me-1 mt-1 mb-1">
 
-        <a id="home-area" className="text-start col-3 col-lg-4 align-self-center" href="/" >
-          <span className="nav-home ms-4 mt-4" onClick={() => setContactFormSelected(false)}>Home</span>
+        <a id="home-area" className="text-start col col-lg-4 align-self-center" href="/" >
+          <span className="nav-home ms-4 mt-4" onClick={() => setContactFormSelected(false)}>Alejandro Jaimes</span>
         </a>
 
-        <nav id="nav-elements" className="text-end col-9 col-lg-8 align-self-end">
+        <nav id="nav-elements" className="text-end col col-lg-8 align-self-end">
           <div className="row me-0">
 
             <li className="col text-center align-middle m-b2">

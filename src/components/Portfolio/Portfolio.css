@@ -26,3 +26,13 @@ span:hover {
   font-size: x-large;
   font-weight: bolder;
 }
+
+.github-repo {
+  color: rgb(45, 184, 136);
+  font-weight: 600;
+}
+
+.github-repo:hover {
+  color: rgb(167, 167, 194);
+  font-weight: bold;
+}

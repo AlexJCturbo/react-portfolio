@@ -1,6 +1,4 @@
 .main-section {
-  width: 100%;
-  height: 100vh;
   color: rgb(167, 167, 194);
 }
 
@@ -19,7 +17,17 @@
   margin-bottom: var(--spacing-five);
 }
 
-img {
+.e-mail {
+  color: rgb(45, 184, 136);
+  font-weight: 600;
+}
+
+.e-mail:hover {
+  color: rgb(167, 167, 194);
+  font-weight: bold;
+}
+
+#photo {
   position: relative;
   object-fit: contain;
   top: 0;
