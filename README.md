@@ -4,10 +4,10 @@
 
 - [Project Description](#Project-Description)
 - [User Story](#User-Story)
+- [Links](#Links)
 - [Screen Captures](#Screen-Captures)
 - [Technologies](#Technologies)
 - [Questions](#Questions)
-- [Links](#Links)
 - [License](#License)
 
 ## Project Description
@@ -23,9 +23,18 @@ SO THAT I can demonstrate to potential employers my qualifications for job posts
 ```
 ###### [Back to Index](#Table-of-Contents)
 
+## Links
+- [Deployed Application](http://AlexJCturbo.github.io/react-portfolio)
+###### [Back to Index](#Table-of-Contents)
+
 ## Screen Captures
-![React Portfolio 1]()
-![React Portfolio 2]()
+![React Portfolio 1 About](./src/assets/images/screen_shots_portfolio/react_portfolio_01_main.png)
+
+![React Portfolio 2 Portfolio](./src/assets/images/screen_shots_portfolio/react_portfolio_02_projects.png)
+
+![React Portfolio 3 Contact](./src/assets/images/screen_shots_portfolio/react_portfolio_03_contact.png)
+
+![React Portfolio 4 Resume](./src/assets/images/screen_shots_portfolio/react_portfolio_04_resume.png)
 ###### [Back to Index](#Table-of-Contents)
 
 ## Technologies
@@ -39,11 +48,6 @@ SO THAT I can demonstrate to potential employers my qualifications for job posts
 ## Questions
 Please, feel free to get in touch to discuss any inquiries or suggestions for the project. I will be happy to connect with you!
 ###### [Back to Index](#Table-of-Contents)
-
-## Links
-- [Deployed Application](http://AlexJCturbo.github.io/react-portfolio)
-###### [Back to Index](#Table-of-Contents)
-
 
 ## License
 MIT License
