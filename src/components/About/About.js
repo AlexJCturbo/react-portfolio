@@ -12,10 +12,10 @@ function About() {
           <div className="content mt-4">
             <h1 id="full-stack-header">Full Stack <br></br>Web Developer.</h1>
             <p className="mt-5">
-              Based in Toronto, currently in the UofT bootcamp.
+              Based in Toronto, currently studying in the UofT boot camp.
               <br></br>
               <br></br>
-              Hello, my name is Alex. I am a full-stack web developer with an engineering and management background and several years of problem solving experience. I worked as a Field Engineer in the oil and gas industry solving in-situ complex drilling problems, always working as part of a working team. I also have a background as a business manager after creating my petshop startup, developing strong leadership abilities. I am looking to bring my knowledge and technical skills to add value to an organization while focusing on continuous learning and engaging in my community.
+              Hello, my name is Alex. I am a full-stack web developer with an engineering and management background and several years of problem-solving experience. I worked as a Field Engineer in the oil and gas industry solving in-situ complex drilling problems, always working as part of a working team. I also have a background as a business manager after creating my pet shop startup, developing strong leadership abilities. I am looking to bring my knowledge and technical skills to add value to an organization while focusing on continuous learning and engaging in my community.
               <br></br>
               <br></br>
               Please contact me at <a className="e-mail" href="mailto:jaimes.ac.5@gmail.com" >jaimes.ac.5@gmail.com</a> or at any of my social media.
