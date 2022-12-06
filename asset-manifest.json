@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5b9d6d84.css",
+    "main.js": "/react-portfolio/static/js/main.4d1be9f9.js",
+    "static/js/787.51972ac4.chunk.js": "/react-portfolio/static/js/787.51972ac4.chunk.js",
+    "static/media/profile_picture.jpg": "/react-portfolio/static/media/profile_picture.34a1b0c8adc168fe8e12.jpg",
+    "static/media/resume_draft_Alejandro_Jaimes.pdf": "/react-portfolio/static/media/resume_draft_Alejandro_Jaimes.f5e2d6f5a7fd95c5dd33.pdf",
+    "static/media/weather_dashboard_01_main.png": "/react-portfolio/static/media/weather_dashboard_01_main.f35ddd0154ea314b6c7d.png",
+    "static/media/team_profile_generator.jpg": "/react-portfolio/static/media/team_profile_generator.ccb94cab7a244164d8f3.jpg",
+    "static/media/join-us_01_home.png": "/react-portfolio/static/media/join-us_01_home.c5cab728577ef5a7246c.png",
+    "static/media/employee_tracker_01.png": "/react-portfolio/static/media/employee_tracker_01.4980cde68a0c8ac5452e.png",
+    "static/media/text_editor_03_app.png": "/react-portfolio/static/media/text_editor_03_app.446b7dec00aff7880737.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5b9d6d84.css.map": "/react-portfolio/static/css/main.5b9d6d84.css.map",
+    "main.4d1be9f9.js.map": "/react-portfolio/static/js/main.4d1be9f9.js.map",
+    "787.51972ac4.chunk.js.map": "/react-portfolio/static/js/787.51972ac4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9d6d84.css",
+    "static/js/main.4d1be9f9.js"
+  ]
+}
