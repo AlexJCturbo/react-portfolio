@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './ContactForm.css';
+import './Contact.css';
 
 function ContactForm() {
 
@@ -13,7 +13,6 @@ function ContactForm() {
   // setFormState({ ...formState, [e.target.name]: e.target.value })
   function handleInput(e) {
     //The name property of e.target.name refers to the name attribute of the form elements
-    //setFormState({ ...formState, [e.target.name]: e.target.value })
     if (!e.target.value.length) {
       setErrorMessage(`${e.target.name} is required.`);
     } else {
@@ -37,7 +36,7 @@ function ContactForm() {
     <div className="ms-5 me-5 mt-3 pt-3">
       <h2 id="contact-header" className="ms-3 pt-1">Contact me</h2>
 
-      <form id="contact-form" onSubmit={handleSubmit} className="ms-4">
+      <form id="contact-form" onSubmit={handleSubmit} className="ms-4 pb-3">
         <div class="mb-3 pb-2">
           <label for="name" htmlFor="name" class="form-label">Name</label>
           <br></br>

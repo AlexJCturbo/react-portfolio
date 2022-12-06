@@ -1,7 +1,7 @@
 {
   "name": "20-react_portfolio",
   "version": "0.1.0",
-  "homepage": "https://AlexJCturbo.github.io/react-portfolio",
+  "homepage": "http://AlexJCturbo.github.io/react-portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",

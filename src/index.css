@@ -1,20 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@300;400;500;600;700&family=Bungee+Inline&family=Caveat:wght@400;500;600&family=Faster+One&family=Monoton&family=Open+Sans:wght@700&family=Oxanium:wght@200;300;500&family=Rubik+Mono+One&family=Shippori+Antique+B1&family=Source+Code+Pro:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Source+Code+Pro:ital,wght@0,300;0,600;0,700;1,400&display=swap');
 
 * {
   font-family: 'Source Code Pro', monospace;
-  /* color: rgb(194, 167, 167); */
 }
-
-/* .section {
-font-family: 'Alexandria', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Oxanium', cursive;
-font-family: 'Shippori Antique B1', sans-serif;
-font-family: 'Source Code Pro', monospace;
-
-font-family: 'Bungee Inline', cursive;
-font-family: 'Caveat', cursive;
-font-family: 'Faster One', cursive;
-font-family: 'Monoton', cursive;
-font-family: 'Rubik Mono One', sans-serif;
-} */

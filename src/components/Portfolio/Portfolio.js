@@ -6,7 +6,6 @@ import TextEditor from '../../assets/images/PWA_text_editor/text_editor_03_app.p
 import WeatherForecast from '../../assets/images/weather_forecast/weather_dashboard_01_main.png';
 import TeamProfile from '../../assets/images/team_profile/team_profile_generator.jpg';
 
-
 function Portfolio() {
 
   //Array of Projects
@@ -32,7 +31,7 @@ function Portfolio() {
           <ul className="flex-row">
             {projects.map((project) => (
               <li
-                className={`pt-2 pb-2 projects ${currentProject.name === project.name && 'project-active'}`}
+                className={`projects-list pt-2 pb-2 ${currentProject.name === project.name && 'project-active'}`}
                 key={project.name}>
                 <span onClick={() => {
                   setCurrentProject(project)

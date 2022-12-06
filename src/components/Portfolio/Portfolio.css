@@ -4,18 +4,21 @@
 
 #portfolio-header-1 {
   font-family: 'Source Code Pro', monospace;
+  color: rgb(167, 167, 194);
   font-size: 2.5em;
 }
 
-/* font-family: 'Faster One', cursive; */
-
 span:hover {
-  /* color: rgb(255, 255, 255); */
   font-size: larger;
 }
 
-.projects {
+.projects-list {
+  color: rgb(167, 167, 194);
   cursor: pointer;
+}
+
+.display-project {
+  color: rgb(167, 167, 194);
 }
 
 .project-active {

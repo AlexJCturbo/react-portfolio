@@ -2,7 +2,6 @@ import React from "react";
 import './About.css'
 import profilePicture from '../../assets/images/profile_picture.jpg'
 
-//Stock footage provided by A Luna Blue, downloaded from videvo.net
 function About() {
   return (
     <div>

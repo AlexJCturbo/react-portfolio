@@ -3,6 +3,7 @@ import './Resume.css';
 import resume from '../../assets/resume/resume_draft_Alejandro_Jaimes.pdf'
 
 function Resume() {
+  //Arrays of badges
   const techsFrontEnd = [
     { name: 'HTML5', url: 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' },
     { name: 'CSS', url: 'https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' },
@@ -37,7 +38,7 @@ function Resume() {
   }
 
   return (
-    <div className="row m-4">
+    <div className="resume-main row m-4 pb-2">
 
       <div className="col-lg-4 mt-3">
         <div className="content ms-3 pt-1 ps-2">
@@ -73,12 +74,12 @@ function Resume() {
               </ul>
             </div>
 
-            <div className="App mt-5">
-              <button type="button" class="download-btn btn-lg mt-3 mb-5" onClick={downloadResume}>Download Resume</button>
-            </div>
-
           </div>
         </div>
+      </div>
+
+      <div className="App mt-5 mb-5 pb-5 align-self-center">
+        <button type="button" class="download-btn btn-lg mt-3 mb-5" onClick={downloadResume}>Download Resume</button>
       </div>
 
     </div>

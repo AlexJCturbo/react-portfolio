@@ -12,6 +12,7 @@ textarea {
 
 #contact-header {
   font-size: 2.5em;
+  color: rgb(167, 167, 194);
 }
 
 #contact-name,
@@ -20,12 +21,7 @@ textarea {
   border-radius: 2px;
   height: 40px;
   color: black;
-  /* font-family: 'Alexandria', sans-serif; */
 }
-
-/* #contact-message {
-  font-family: 'Alexandria', sans-serif;
-} */
 
 .contact-btn {
   background-color: transparent;

@@ -14,14 +14,6 @@ function App() {
   const [contactFormSelected, setContactFormSelected] = useState(false);
   const [resumeSelected, setResumeSelected] = useState(false);
 
-  //   function Gallery(props) {
-  //     const currentCategory = {
-  //       name: "commercial",
-  //       description:
-  //         "Photos of grocery stores, food trucks, and other commercial projects",
-  //   }
-  // };
-
   return (
     <div className="main">
       <div className="cover">

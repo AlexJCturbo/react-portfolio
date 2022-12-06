@@ -8,14 +8,15 @@ footer {
   font-size: larger;
   text-align: center;
   vertical-align: middle;
-  /* border-top-left-radius: 50px 5px;
-  border-top-right-radius: 50px 15px; */
 }
 
 .footer-div {
   font-size: x-large;
 }
 
-span {
+.github,
+.linkedIn,
+.twitter,
+.instagram {
   color: rgb(167, 167, 194);
 }

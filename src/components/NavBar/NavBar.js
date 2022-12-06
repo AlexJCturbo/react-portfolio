@@ -22,7 +22,6 @@ function NavBar(props) {
         </a>
 
         <nav id="nav-elements" className="text-end col-9 col-lg-8 align-self-end">
-          {/* <ul className="text-center align-middle m-2"> */}
           <div className="row me-0">
 
             <li className="col text-center align-middle m-b2">
@@ -68,7 +67,6 @@ function NavBar(props) {
             </li>
 
           </div>
-          {/* </ul> */}
         </nav>
 
       </div>

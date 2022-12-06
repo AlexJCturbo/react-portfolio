@@ -6,8 +6,6 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 import { faInstagram } from '@fortawesome/free-brands-svg-icons'
 
-// const coverImage = new URL('./assets/images/cover.jpg', import.meta.url);
-
 function Footer() {
   return (
     <div>
