@@ -5,25 +5,14 @@ main {
 }
 
 #header-about {
-  /* font-family: 'Caveat', cursive; */
-  /* font-family: 'Bungee Inline', cursive; */
   font-family: 'Source Code Pro', monospace;
   font-size: 2.5em;
 }
 
 #full-stack-header {
   font-family: 'Monoton', cursive;
-  font-size: 3.5em;
-  /* font-family: 'Faster One', cursive; */
+  font-size: 3.2em;
 }
-
-/*
-font-family: 'Caveat', cursive;
-font-family: 'Faster One', cursive;
-font-family: 'Bungee Inline', cursive;
-font-family: 'Monoton', cursive;
-font-family: 'Rubik Mono One', sans-serif; 
-*/
 
 .content {
   margin-top: var(--spacing-five);
@@ -37,7 +26,6 @@ img {
   left: 0;
   width: auto;
   height: 600px;
-  /* background-color: rgba(5, 4, 17, 0.5); */
 }
 
 @media only screen and (max-width:768px) {
@@ -47,37 +35,6 @@ img {
     top: 0;
     left: 0;
     width: auto;
-    height: 400px;
-    /* background-color: rgba(5, 4, 17, 0.5); */
+    height: 600px;
   }
 }
-
-/* #photo-container {
-  object-fit: contain;
-}
-
-#photo-div {
-  object-fit: contain;
-} */
-
-
-/* #photo-div {
-  position: relative;
-  min-width: 100%;
-  min-height: 100%;
-
-  background-position: center;
-  background: linear-gradient(#03011c, #000000);
-  opacity: 0.9;
-} */
-
-
-
-/* .background-screen {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(128, 128, 128, 0.5);
-} */

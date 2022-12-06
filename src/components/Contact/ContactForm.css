@@ -1,7 +1,7 @@
 #contact-name,
 #contact-email,
 #contact-message {
-  width: 50%;
+  width: 60%;
 }
 
 input,
@@ -27,9 +27,9 @@ textarea {
   font-family: 'Alexandria', sans-serif;
 } */
 
-.button {
+.contact-btn {
   background-color: transparent;
-  padding: 12px 32px;
+  padding: 12px 44px;
   color: rgb(45, 184, 136);
   border: 2px solid rgb(45, 184, 136);
   border-radius: 2px;
@@ -39,4 +39,23 @@ textarea {
 button:hover {
   background-color: rgb(45, 184, 136);
   color: black;
+}
+
+
+@media only screen and (max-width:768px) {
+
+  #contact-name,
+  #contact-email,
+  #contact-message {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width:820px) {
+
+  #contact-name,
+  #contact-email,
+  #contact-message {
+    width: 80%;
+  }
 }

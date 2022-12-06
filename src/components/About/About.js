@@ -1,7 +1,6 @@
 import React from "react";
 import './About.css'
 import profilePicture from '../../assets/images/profile_picture.jpg'
-// import video from '../../assets/videos/background_video/futuristic_plexus1.mp4'
 
 //Stock footage provided by A Luna Blue, downloaded from videvo.net
 function About() {
@@ -24,9 +23,9 @@ function About() {
           </div>
 
           <div id="photo-container" className="col-md-6">
-            <div id="photo-div" className="row">
-              <img id="photo" src={profilePicture} className="img-responsive " alt="web developer's profile photo" />
-            </div>
+
+            <img id="photo" src={profilePicture} className="img-responsive " alt="web developer Alex Jaimes" />
+
           </div>
 
         </div>

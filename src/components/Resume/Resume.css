@@ -1,0 +1,40 @@
+#badges {
+  height: 45px;
+}
+
+ul,
+li {
+  list-style-type: none;
+  cursor: auto;
+}
+
+.download-btn {
+  background-color: transparent;
+  padding: 12px 24px;
+  color: rgb(45, 184, 136);
+  border: 2px solid rgb(45, 184, 136);
+  border-radius: 2px;
+  transition-duration: 0.4s;
+}
+
+@media only screen and (max-width:768px) {
+  img {
+    position: relative;
+    object-fit: contain;
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 600px;
+  }
+}
+
+@media only screen and (max-width:768px) {
+
+  ul,
+  li {
+    position: relative;
+    object-fit: contain;
+    margin-left: 1cm;
+
+  }
+}
