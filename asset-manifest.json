@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.750db243.css",
-    "main.js": "/react-portfolio/static/js/main.3af1936b.js",
+    "main.js": "/react-portfolio/static/js/main.d2d724bb.js",
     "static/js/787.51972ac4.chunk.js": "/react-portfolio/static/js/787.51972ac4.chunk.js",
+    "static/media/travotel_01_main.png": "/react-portfolio/static/media/travotel_01_main.9a8958d091b1c60c271b.png",
     "static/media/profile_picture.jpg": "/react-portfolio/static/media/profile_picture.34a1b0c8adc168fe8e12.jpg",
     "static/media/resume_draft_Alejandro_Jaimes.pdf": "/react-portfolio/static/media/resume_draft_Alejandro_Jaimes.f5e2d6f5a7fd95c5dd33.pdf",
     "static/media/weather_dashboard_01_main.png": "/react-portfolio/static/media/weather_dashboard_01_main.f35ddd0154ea314b6c7d.png",
@@ -13,11 +14,11 @@
     "static/media/text_editor_03_app.png": "/react-portfolio/static/media/text_editor_03_app.446b7dec00aff7880737.png",
     "index.html": "/react-portfolio/index.html",
     "main.750db243.css.map": "/react-portfolio/static/css/main.750db243.css.map",
-    "main.3af1936b.js.map": "/react-portfolio/static/js/main.3af1936b.js.map",
+    "main.d2d724bb.js.map": "/react-portfolio/static/js/main.d2d724bb.js.map",
     "787.51972ac4.chunk.js.map": "/react-portfolio/static/js/787.51972ac4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.750db243.css",
-    "static/js/main.3af1936b.js"
+    "static/js/main.d2d724bb.js"
   ]
 }
