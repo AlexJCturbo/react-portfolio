@@ -17,7 +17,7 @@ function NavBar(props) {
     <header className="nav-main flex-row p-2 mt-4 mb-4">
       <div className="nav-menu row justify-content me-1 mt-1 mb-1">
 
-        <a id="home-area" className="text-start col col-lg-4 align-self-center" href="/" >
+        <a id="home-area" className="text-start col col-lg-4 align-self-center" href="/react-portfolio" >
           <span className="nav-home ms-4 mt-4" onClick={() => setContactFormSelected(false)}>Alejandro Jaimes</span>
         </a>
 

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import './Portfolio.css';
 import EmployeeTracker01 from '..//../assets/images/employee_tracker/employee_tracker_01.png';
+import Travotel from '..//..//assets/images/travotel/travotel_01_main.png';
 import JoinUs from '..//..//assets/images/join_us/join-us_01_home.png';
 import TextEditor from '../../assets/images/PWA_text_editor/text_editor_03_app.png';
 import WeatherForecast from '../../assets/images/weather_forecast/weather_dashboard_01_main.png';
@@ -11,6 +12,7 @@ function Portfolio() {
 
   //Array of Projects
   const [projects] = useState([
+    { name: "TRAVÔTEL", description: 'A bilingual travelling app created with the MERN technologies, that allows users to search hotel rooms in major cities.', photo: Travotel, link: 'https://bilingualhotelbooking.herokuapp.com', githubRepo: 'https://github.com/AlexJCturbo/hotel_booking' },
     { name: "join_us", description: "A website that offers the user the choice to meet friends, network for professional networking, grow businesses, host/attend events and explore interests.", photo: JoinUs, link: 'https://join-us2.herokuapp.com/dashboard', githubRepo: 'https://github.com/AlexJCturbo/Join-Us' },
     { name: "text_editor", description: "A single-page Text Editor application that runs in the browser and meets the PWA criteria.", photo: TextEditor, link: 'https://github.com/AlexJCturbo/text_editor', githubRepo: 'https://github.com/AlexJCturbo/text_editor' },
     { name: "weather_forecast", description: "A weather forecast application that runs in the browser and features dynamically updated weather forecasts from the selected city.", photo: WeatherForecast, link: 'https://alexjcturbo.github.io/weather-dashboard/', githubRepo: 'https://github.com/AlexJCturbo/weather-dashboard' },
