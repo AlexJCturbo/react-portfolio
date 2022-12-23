@@ -1,4 +1,4 @@
-# Employee Tracker
+# React Portfolio
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ SO THAT I can demonstrate to potential employers my qualifications for job posts
 ###### [Back to Index](#Table-of-Contents)
 
 ## Questions
-Please, feel free to get in touch to discuss any inquiries or suggestions for the project. I will be happy to connect with you!
+Please, feel free to get in touch at jaimes.ac.5@gmail.com to discuss any inquiries or suggestions . I will be happy to connect with you!
 ###### [Back to Index](#Table-of-Contents)
 
 ## License
